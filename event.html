@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" type="image/png" href="assets/img/favicon.ico">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<title>Light Bootstrap Dashboard by Creative Tim</title>
+
+	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <meta name="viewport" content="width=device-width" />
+
+
+    <!-- Bootstrap core CSS     -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Animation library for notifications   -->
+    <link href="assets/css/animate.min.css" rel="stylesheet"/>
+
+    <!--  Light Bootstrap Table core CSS    -->
+    <link href="assets/css/light-bootstrap-dashboard.css?v=1.4.0" rel="stylesheet"/>
+
+
+    <!--  CSS for Demo Purpose, don't include it in your project     -->
+    <link href="assets/css/demo.css" rel="stylesheet" />
+
+
+    <!--     Fonts and icons     -->
+    <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Roboto:400,700,300' rel='stylesheet' type='text/css'>
+    <link href="assets/css/pe-icon-7-stroke.css" rel="stylesheet" />
+</head>
+<body>
+
+		
+
+
+        <div class="content">
+            <div class="container-fluid">
+                <div class="row" style="text-align: center">
+                    
+                    
+                    <div class="col-md-1"> </div> 
+                    <div class="col-md-10">
+                        <div class="card">
+                            <div class="header">
+                                <h3 class="title">Event Registration</h3>
+                            </div>
+                            <div class="content">
+                                <form>
+                                        
+                                    
+                             
+                             <div class="row" id="dates">
+                                 <div class="col-md-6">
+                                     <div class="form-group">
+                                         <label for="start">Starting Date</label>
+                                         <input type="datetime-local" class="form-control" id="start" name="start" optional > 
+                                     </div>
+                                 </div>
+                                 <div class="col-md-6">
+                                     <div class="form-group">
+                                         <label for="stop"> Ending Date</label>
+                                         <input type="datetime-local" class="form-control" id="stop" name="stop" optional> 
+                                     </div>
+                                 </div>
+                             </div>
+                             
+                         
+                         <div class="row">
+                             <div class="col-md-3">
+                                 <div class="form-group">
+                                     <label for="state">State</label>
+                                <select name=slist id="state" name="state" class="form-control" required>
+
+<option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+<option value="Andhra Pradesh">Andhra Pradesh</option>
+<option value="Arunachal Pradesh">Arunachal Pradesh</option>
+<option value="Assam">Assam</option>
+<option value="Bihar">Bihar</option>
+<option value="Chandigarh">Chandigarh</option>
+<option value="Chhattisgarh">Chhattisgarh</option>
+<option value="Dadra and Nagar Haveli">Dadra and Nagar Haveli</option>
+<option value="Daman and Diu">Daman and Diu</option>
+<option value="Delhi">Delhi</option>
+<option value="Goa">Goa</option>
+<option value="Gujarat" selected>Gujarat</option>
+<option value="Haryana">Haryana</option>
+<option value="Himachal Pradesh">Himachal Pradesh</option>
+<option value="Jammu and Kashmir">Jammu and Kashmir</option>
+<option value="Jharkhand">Jharkhand</option>
+<option value="Karnataka">Karnataka</option>
+<option value="Kerala">Kerala</option>
+<option value="Lakshadweep">Lakshadweep</option>
+<option value="Madhya Pradesh">Madhya Pradesh</option>
+<option value="Maharashtra">Maharashtra</option>
+<option value="Manipur">Manipur</option>
+<option value="Meghalaya">Meghalaya</option>
+<option value="Mizoram">Mizoram</option>
+<option value="Nagaland">Nagaland</option>
+<option value="Orissa">Orissa</option>
+<option value="Pondicherry">Pondicherry</option>
+<option value="Punjab">Punjab</option>
+<option value="Rajasthan">Rajasthan</option>
+<option value="Sikkim">Sikkim</option>
+<option value="Tamil Nadu">Tamil Nadu</option>
+<option value="Tripura">Tripura</option>
+<option value="Uttaranchal">Uttaranchal</option>
+<option value="Uttar Pradesh">Uttar Pradesh</option>
+<option value="West Bengal">West Bengal</option>
+</select>
+                                 </div>
+                                 </div>
+                             <div class="col-md-3">
+                                 <div class="form-group">
+                                     <label for="city">City</label>
+                                 <select class="form-control" name="city" id='city' required>
+                                 <option value="ahmedabad">Ahmedabad</option>
+                                     <option value="jamnagar">Jamnagar</option>
+                                     <option value="rajkot">Rajkot</option>
+                                    <option value="surat">Surat</option>
+                                 
+                                </select>
+                                 </div>
+                             </div>
+                             <div class="col-md-3">
+                                 <div class="form-group">
+                                     <label for="area">Area</label>
+                                 <input type="text" class="form-control" name="area" id="area" placeholder="Enter Area" required>
+                                 </div>
+                             </div>
+                             <div class="col-md-3">
+                                 <div class="form-group">
+                                     <label for="landmark">Landmark</label>
+                                     <input type="text" class="form-control" name="landmark" id="landmark" placeholder="Enter Landmark" required>
+                                 </div>
+                             </div>
+                         
+                         </div>
+                             <div class="row">
+                                 <div class="col-md-12">
+                                 <div class="form-group">
+                                     <label for="address">Address</label>
+                                     <input type="text" name="address" id="address" class="form-control" placeholder="Enter Address" required> 
+                                     </div>
+                                 </div>
+                             </div>
+                             <div class="row">
+                                 <div class="col-md-4">
+                                 <div class="form-group">
+                                     <label for="capacity">NO. Of Max People</label>
+                                     <input type="number" min="0"   placeholder="Enter Capacity" id="capacity" name="capacity" class="form-control" required>
+                                     </div>
+                                 </div>
+                                 <div class="col-md-4">
+                                 <div class="form-group">
+                                     <label for="checkpark">Parking Available</label>
+                                     <select    id="checkpark" name="checkpark" class="form-control" required>
+                                         <option value="yes">Yes</option>
+                                         <option value="no">No</option>
+                                     </select>
+                                     </div>
+                             </div>
+                                 <div class="col-md-4">
+                                 <div class="form-group">
+                                     <label for="phone">Phone Number</label>
+                                     <input type="tel" id="phone" class="form-control" pattern="[0-9]{10}" name="phone" placeholder="Enter Phone Number" required>
+                                     </div>
+                             </div>
+                             </div>
+                             <div class="row">
+                                 <div class="col-md-12"> 
+                                     <label for="upload">Upload Image </label>
+                                     <input type="file" id="upload" name="upload" class="form-control" accept="image/*" required multiple></div>
+                                 </div>
+                                 
+                       
+                                 <div class="row">
+                                     <div class="col-md-12">
+                                     <button type="submit" class="btn btn-success">Submit</button> 
+                                    </div>
+                                    </div>
+                                     <div class="clearfix"></div>
+                                </form>
+                            </div>  
+                        </div>
+                    </div>
+                    
+            </div>
+        </div>
+
+
+        
+
+    </div>
+</body>
+    
+
+    <!--   Core JS Files   -->
+    <script src="assets/js/jquery.3.2.1.min.js" type="text/javascript"></script>
+	<script src="assets/js/bootstrap.min.js" type="text/javascript"></script>
+
+	<!--  Charts Plugin -->
+	<script src="assets/js/chartist.min.js"></script>
+
+    <!--  Notifications Plugin    -->
+    <script src="assets/js/bootstrap-notify.js"></script>
+
+    <!--  Google Maps Plugin    -->
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>
+
+    <!-- Light Bootstrap Table Core javascript and methods for Demo purpose -->
+	<script src="assets/js/light-bootstrap-dashboard.js?v=1.4.0"></script>
+
+	<!-- Light Bootstrap Table DEMO methods, don't include it in your project! -->
+	<script src="assets/js/demo.js"></script>
+
+</html>

@@ -1,0 +1,536 @@
+[
+	{
+		"AHMEDABAD": "ambawadi",
+		"JAMNAGAR": "oshwal colony"
+	},
+	{
+		"AHMEDABAD": "ambli",
+		"JAMNAGAR": "khodiyar colony"
+	},
+	{
+		"AHMEDABAD": "amraiwadi",
+		"JAMNAGAR": "jam khambhaliya road "
+	},
+	{
+		"AHMEDABAD": "anandnagar",
+		"JAMNAGAR": "patel colony"
+	},
+	{
+		"AHMEDABAD": "asarwa",
+		"JAMNAGAR": "bed"
+	},
+	{
+		"AHMEDABAD": "ashram road ",
+		"JAMNAGAR": "sadhana colony "
+	},
+	{
+		"AHMEDABAD": "aslali",
+		"JAMNAGAR": "park colony "
+	},
+	{
+		"AHMEDABAD": "ayojan Nagar ",
+		"JAMNAGAR": "sikka"
+	},
+	{
+		"AHMEDABAD": "bapu nagar",
+		"JAMNAGAR": "mayur nagar"
+	},
+	{
+		"AHMEDABAD": "bavla",
+		"JAMNAGAR": "summair club road "
+	},
+	{
+		"AHMEDABAD": "behrampur",
+		"JAMNAGAR": "hapa"
+	},
+	{
+		"AHMEDABAD": "bhadaj",
+		"JAMNAGAR": "gokulnagar"
+	},
+	{
+		"AHMEDABAD": "bhadra",
+		"JAMNAGAR": "bedeswar"
+	},
+	{
+		"AHMEDABAD": "bhat",
+		"JAMNAGAR": "patrakar colony"
+	},
+	{
+		"AHMEDABAD": "bodakdev ",
+		"JAMNAGAR": "dared"
+	},
+	{
+		"AHMEDABAD": "bopal ",
+		"JAMNAGAR": "army cantonment "
+	},
+	{
+		"AHMEDABAD": "CG road ",
+		"JAMNAGAR": "dadiya"
+	},
+	{
+		"AHMEDABAD": "chandkheda",
+		"JAMNAGAR": "panchvati"
+	},
+	{
+		"AHMEDABAD": "chandlodia ",
+		"JAMNAGAR": "gulabnagar"
+	},
+	{
+		"AHMEDABAD": "changodar",
+		"JAMNAGAR": "indira marg"
+	},
+	{
+		"AHMEDABAD": "chharodi",
+		"JAMNAGAR": "swaminarayan nagar"
+	},
+	{
+		"AHMEDABAD": "dani limbada",
+		"JAMNAGAR": "shankar tekri"
+	},
+	{
+		"AHMEDABAD": "dariapur ",
+		"JAMNAGAR": "fala "
+	},
+	{
+		"AHMEDABAD": "dhandhuka",
+		"JAMNAGAR": "green city"
+	},
+	{
+		"AHMEDABAD": "dudheshwar",
+		"JAMNAGAR": "kamdar colony"
+	},
+	{
+		"AHMEDABAD": "Ellis Bridge ",
+		"JAMNAGAR": "naam dhaam society "
+	},
+	{
+		"AHMEDABAD": "ghatlodia",
+		"JAMNAGAR": "air force road "
+	},
+	{
+		"AHMEDABAD": "ghodasar",
+		"JAMNAGAR": "theba"
+	},
+	{
+		"AHMEDABAD": "ghuma",
+		"JAMNAGAR": "kadiawad"
+	},
+	{
+		"AHMEDABAD": "girdhar nagar",
+		"JAMNAGAR": "navagam"
+	},
+	{
+		"AHMEDABAD": "gomtipur",
+		"JAMNAGAR": "morkanda"
+	},
+	{
+		"AHMEDABAD": "gota",
+		"JAMNAGAR": "government colony "
+	},
+	{
+		"AHMEDABAD": "gulbai tekra",
+		"JAMNAGAR": "raj park "
+	},
+	{
+		"AHMEDABAD": "gurukul",
+		"JAMNAGAR": "motikhavdi"
+	},
+	{
+		"AHMEDABAD": "hansol",
+		"JAMNAGAR": "ranjit sagar road "
+	},
+	{
+		"AHMEDABAD": "hathijan",
+		"JAMNAGAR": "nani matli"
+	},
+	{
+		"AHMEDABAD": "hatkeshwar",
+		"JAMNAGAR": "lalpur"
+	},
+	{
+		"AHMEDABAD": "isanpur",
+		"JAMNAGAR": "lakhabawal"
+	},
+	{
+		"AHMEDABAD": "jagatpur",
+		"JAMNAGAR": "kaushal nagar"
+	},
+	{
+		"AHMEDABAD": "jamalpur",
+		"JAMNAGAR": "saru section road "
+	},
+	{
+		"AHMEDABAD": "jashoda nagar",
+		"JAMNAGAR": "central bank road "
+	},
+	{
+		"AHMEDABAD": "jivrajpark",
+		"JAMNAGAR": "ajanta society "
+	},
+	{
+		"AHMEDABAD": "narol",
+		"JAMNAGAR": "rameshwar nagar"
+	},
+	{
+		"AHMEDABAD": "nava wadaj",
+		"JAMNAGAR": "vansjaliya"
+	},
+	{
+		"AHMEDABAD": "navjivan",
+		"JAMNAGAR": "senanagar"
+	},
+	{
+		"AHMEDABAD": "nikol",
+		"JAMNAGAR": "sevak dhuniya"
+	},
+	{
+		"AHMEDABAD": "nirnay nagar",
+		"JAMNAGAR": "nilkanth nagar"
+	},
+	{
+		"AHMEDABAD": "noblenagar",
+		"JAMNAGAR": "dhinchda"
+	},
+	{
+		"AHMEDABAD": "odhav",
+		"JAMNAGAR": "kishan park society "
+	},
+	{
+		"AHMEDABAD": "ognaj",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "paldi",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "pralahad nagar",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "raikhad",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "raipur ",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "rakhial",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "ranip",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "ramdev nagar",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "sabarmati",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "sadar bazar",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "saijpur bogha",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "sanand",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "santhal",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "saraspur",
+		"JAMNAGAR": ""
+	},
+	{
+		"AHMEDABAD": "sarkhej "
+	},
+	{
+		"AHMEDABAD": "satellite "
+	},
+	{
+		"AHMEDABAD": "jodhpur"
+	},
+	{
+		"AHMEDABAD": "juhapura"
+	},
+	{
+		"AHMEDABAD": "juna wadaj"
+	},
+	{
+		"AHMEDABAD": "shah e alam roja"
+	},
+	{
+		"AHMEDABAD": "shahibaug"
+	},
+	{
+		"AHMEDABAD": "shahpur"
+	},
+	{
+		"AHMEDABAD": "shela"
+	},
+	{
+		"AHMEDABAD": "shilaj "
+	},
+	{
+		"AHMEDABAD": "sola"
+	},
+	{
+		"AHMEDABAD": "sola road"
+	},
+	{
+		"AHMEDABAD": "thakkarbapa Nagar "
+	},
+	{
+		"AHMEDABAD": "thaltej"
+	},
+	{
+		"AHMEDABAD": "thaltej road "
+	},
+	{
+		"AHMEDABAD": "usmanpura"
+	},
+	{
+		"AHMEDABAD": "vasna "
+	},
+	{
+		"AHMEDABAD": "vastral"
+	},
+	{
+		"AHMEDABAD": "vastrapur"
+	},
+	{
+		"AHMEDABAD": "vatva"
+	},
+	{
+		"AHMEDABAD": "vatva GIDC"
+	},
+	{
+		"AHMEDABAD": "vejalpur"
+	},
+	{
+		"AHMEDABAD": "sanand-viramgam road"
+	},
+	{
+		"AHMEDABAD": "mandal"
+	},
+	{
+		"AHMEDABAD": "new CG road "
+	},
+	{
+		"AHMEDABAD": "D colony"
+	},
+	{
+		"AHMEDABAD": "sardar Colony "
+	},
+	{
+		"AHMEDABAD": "Ahmedabad-rajkot Highway "
+	},
+	{
+		"AHMEDABAD": "nehrunagar"
+	},
+	{
+		"AHMEDABAD": "kotarpur"
+	},
+	{
+		"AHMEDABAD": "mirzapur"
+	},
+	{
+		"AHMEDABAD": "nava naroda"
+	},
+	{
+		"AHMEDABAD": "narayan nagar"
+	},
+	{
+		"AHMEDABAD": "narol road "
+	},
+	{
+		"AHMEDABAD": "lapkakan"
+	},
+	{
+		"AHMEDABAD": "kolat"
+	},
+	{
+		"AHMEDABAD": "mahadev nagar"
+	},
+	{
+		"AHMEDABAD": "moraiya"
+	},
+	{
+		"AHMEDABAD": "new maninagar"
+	},
+	{
+		"AHMEDABAD": "purshottam nagar"
+	},
+	{
+		"AHMEDABAD": "gita mandir"
+	},
+	{
+		"AHMEDABAD": "sachana"
+	},
+	{
+		"AHMEDABAD": "nasmed"
+	},
+	{
+		"AHMEDABAD": " khodiar Nagar "
+	},
+	{
+		"AHMEDABAD": "shantipura"
+	},
+	{
+		"AHMEDABAD": "vinzol"
+	},
+	{
+		"AHMEDABAD": "gokuldham"
+	},
+	{
+		"AHMEDABAD": "geratpur"
+	},
+	{
+		"AHMEDABAD": "sarangpur"
+	},
+	{
+		"AHMEDABAD": "south bopal"
+	},
+	{
+		"AHMEDABAD": "vaishnodevi"
+	},
+	{
+		"AHMEDABAD": "acher"
+	},
+	{
+		"AHMEDABAD": "hebatpur"
+	},
+	{
+		"AHMEDABAD": "devdholera"
+	},
+	{
+		"AHMEDABAD": "lilapur"
+	},
+	{
+		"AHMEDABAD": "mahemdabad"
+	},
+	{
+		"AHMEDABAD": "vishala"
+	},
+	{
+		"AHMEDABAD": "pipali Highway "
+	},
+	{
+		"AHMEDABAD": "ashok vatika"
+	},
+	{
+		"AHMEDABAD": "vejalpur "
+	},
+	{
+		"AHMEDABAD": "viramgam"
+	},
+	{
+		"AHMEDABAD": "shyamal"
+	},
+	{
+		"AHMEDABAD": "racharda"
+	},
+	{
+		"AHMEDABAD": "S.P ring road "
+	},
+	{
+		"AHMEDABAD": "navrangpura"
+	},
+	{
+		"AHMEDABAD": "S.G Highway "
+	},
+	{
+		"AHMEDABAD": "palodia"
+	},
+	{
+		"AHMEDABAD": "barejadi"
+	},
+	{
+		"AHMEDABAD": "kali"
+	},
+	{
+		"AHMEDABAD": "sughad"
+	},
+	{
+		"AHMEDABAD": "manipur"
+	},
+	{
+		"AHMEDABAD": "koteshwar"
+	},
+	{
+		"AHMEDABAD": "science City "
+	},
+	{
+		"AHMEDABAD": "132 feet ring road "
+	},
+	{
+		"AHMEDABAD": "santej"
+	},
+	{
+		"AHMEDABAD": "godhavi"
+	},
+	{
+		"AHMEDABAD": "nandej"
+	},
+	{
+		"AHMEDABAD": "bagodara"
+	},
+	{
+		"AHMEDABAD": "dholera"
+	},
+	{
+		"AHMEDABAD": "tragad"
+	},
+	{
+		"AHMEDABAD": "raska"
+	},
+	{
+		"AHMEDABAD": "new ranip"
+	},
+	{
+		"AHMEDABAD": "chanakyapuri"
+	},
+	{
+		"AHMEDABAD": "rakanpur"
+	},
+	{
+		"AHMEDABAD": "sanand-nalsarovar road "
+	},
+	{
+		"AHMEDABAD": "dholka"
+	},
+	{
+		"AHMEDABAD": "kheda"
+	},
+	{
+		"AHMEDABAD": "laxmanpura"
+	},
+	{
+		"AHMEDABAD": "bavla nalsarovar road "
+	},
+	{
+		"AHMEDABAD": "nandoli"
+	},
+	{
+		"AHMEDABAD": "khoraj"
+	},
+	{
+		"AHMEDABAD": "kasindra"
+	},
+	{
+		"AHMEDABAD": "nana chiloda"
+	},
+	{
+		"AHMEDABAD": "pipali"
+	}
+]

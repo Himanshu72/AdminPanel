@@ -1,0 +1,36 @@
+[
+
+{
+	"username":"isha(1001)",
+	"streamname":"parimal",
+	"totalBike":"500",
+	"totalcar":"100",
+	"currentbike":"200",
+	"currentcar":"100"
+}
+,
+{
+	"username":"parin(1002)",
+	"streamname":"ambaji",
+	"totalBike":"100",
+	"totalcar":"50",
+	"currentbike":"90",
+	"currentcar":"50"
+}
+,
+
+	{
+	"username":"vatsal(1003)",
+	"streamname":"PDPU",
+	"totalBike":"1000",
+	"totalcar":"1000",
+	"currentbike":"400",
+	"currentcar":"500"
+}
+
+
+
+
+
+
+]
